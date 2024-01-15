@@ -7,9 +7,3 @@ set tabstospaces
 
 ## Search using regex
 set regexp
-
-## Scroll line-by-line
-set smooth
-
-## Show cursor position in status bar
-set const
